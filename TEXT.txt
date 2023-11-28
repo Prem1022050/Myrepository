@@ -1,2 +1,9 @@
 hello from scopeindia hi how are you?
 
+<<<<<<< HEAD
+=======
+this is wrong h?
+>>>>>>> d6d6f1687a265cdb018cc3d73d26fd887e09f0a3
+
+
+hello this is prem
